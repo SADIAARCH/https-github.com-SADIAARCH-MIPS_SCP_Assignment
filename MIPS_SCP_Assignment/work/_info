@@ -1,0 +1,308 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/
+vadder
+Z0 !s110 1787924566
+!i10b 1
+!s100 _cGbQdVQ:knjQkPW<VhLm0
+ISOo>YhCk=I]R?CjMAIRQ02
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dE:/MIPS_SCP_Assignment
+Z3 w1787903443
+Z4 8adder.v
+Z5 Fadder.v
+L0 3
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1787924566.000000
+Z8 !s107 control.v|rom.v|ram.v|sl2.v|signext.v|regfile32.v|mux4.v|mux2.v|flopr_param.v|alu32.v|adder.v|datapath.v|E:/MIPS_SCP_Assignment/MIPS_SCP.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|E:/MIPS_SCP_Assignment/MIPS_SCP.v|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+valu32
+R0
+!i10b 1
+!s100 TJELNDiE?9dfNH0Tg@Sek2
+I`Lo81FkiTd1kbOkAR5]ic1
+R1
+R2
+w1787905421
+8alu32.v
+Falu32.v
+L0 6
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vDatapath
+R0
+!i10b 1
+!s100 OaZd3@f3Xm38GY_5AV0:63
+I`ZojAeRj9C0m`fLFUnQJP1
+R1
+R2
+Z12 w1787905422
+8datapath.v
+Fdatapath.v
+L0 16
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@datapath
+vdecoder4
+R0
+!i10b 1
+!s100 bNeF91ID[G2fgYClKY1l32
+I:5:ze[]N2JnHDkaf>1eIZ3
+R1
+R2
+R12
+8E:/MIPS_SCP_Assignment/decoder4.v
+FE:/MIPS_SCP_Assignment/decoder4.v
+L0 6
+R6
+r1
+!s85 0
+31
+R7
+!s107 E:/MIPS_SCP_Assignment/decoder4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/MIPS_SCP_Assignment/decoder4.v|
+!i113 1
+R10
+R11
+vFA
+R0
+!i10b 1
+!s100 fWAY>;oNWZccfU;5b19kX0
+IF7U7hi2<;BJH?@2kcmzlG3
+R1
+R2
+R3
+R4
+R5
+L0 20
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@f@a
+vflopr_param
+R0
+!i10b 1
+!s100 `J1W;0j7KlL`4eZ8XZdT63
+I?V_OdgnQaIN<9mU0^cIQW3
+R1
+R2
+w1787903811
+8flopr_param.v
+Fflopr_param.v
+L0 6
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vMIPS_SCP
+R0
+!i10b 1
+!s100 ne=2z3D125O[7;ni9aa4o2
+IC?BefVm^1?Zhz>CG:zNV;3
+R1
+R2
+w1787922920
+8E:/MIPS_SCP_Assignment/MIPS_SCP.v
+FE:/MIPS_SCP_Assignment/MIPS_SCP.v
+L0 12
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@m@i@p@s_@s@c@p
+vMIPS_SCP_tb
+R0
+!i10b 1
+!s100 oi8adP^?j8QRl656AfRRC2
+Ibk>^W7_]?HU?]@J6mcS>]3
+R1
+R2
+w1787903882
+8E:/MIPS_SCP_Assignment/MIPS_SCP_tb.v.bak
+FE:/MIPS_SCP_Assignment/MIPS_SCP_tb.v.bak
+L0 6
+R6
+r1
+!s85 0
+31
+R7
+!s107 E:/MIPS_SCP_Assignment/MIPS_SCP_tb.v.bak|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/MIPS_SCP_Assignment/MIPS_SCP_tb.v.bak|
+!i113 1
+R10
+R11
+n@m@i@p@s_@s@c@p_tb
+vmux2
+Z13 !s110 1787924567
+!i10b 1
+!s100 ;7K:j1X=Fe>cP:fILlc4?3
+I=5KBHQ>S5j9[mNc9@[z4n1
+R1
+R2
+w1787904084
+8E:/MIPS_SCP_Assignment/mux2.v
+FE:/MIPS_SCP_Assignment/mux2.v
+L0 6
+R6
+r1
+!s85 0
+31
+R7
+!s107 E:/MIPS_SCP_Assignment/mux2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/MIPS_SCP_Assignment/mux2.v|
+!i113 1
+R10
+R11
+vmux4
+R13
+!i10b 1
+!s100 Fo6?c[gi_n9Y>h:ml=V4R2
+I?g<41Ol9bFMPoPJkIm;5N3
+R1
+R2
+w1787903676
+8E:/MIPS_SCP_Assignment/mux4.v
+FE:/MIPS_SCP_Assignment/mux4.v
+L0 6
+R6
+r1
+!s85 0
+31
+Z14 !s108 1787924567.000000
+!s107 E:/MIPS_SCP_Assignment/mux4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/MIPS_SCP_Assignment/mux4.v|
+!i113 1
+R10
+R11
+vram
+R13
+!i10b 1
+!s100 FXZLIL^8L<jfW3zGlc=J82
+I=6<4P_?^5[7J9F3o3Cnlc0
+R1
+R2
+w1787903511
+8E:/MIPS_SCP_Assignment/ram.v
+FE:/MIPS_SCP_Assignment/ram.v
+L0 5
+R6
+r1
+!s85 0
+31
+R14
+!s107 E:/MIPS_SCP_Assignment/ram.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/MIPS_SCP_Assignment/ram.v|
+!i113 1
+R10
+R11
+vregisterfile32
+R13
+!i10b 1
+!s100 FIJJc5UgWm9iV?Ra`XO>j2
+IN[oSiUfG`N;K2;h5L>b@n1
+R1
+R2
+w1787905423
+8E:/MIPS_SCP_Assignment/regfile32.v
+FE:/MIPS_SCP_Assignment/regfile32.v
+L0 7
+R6
+r1
+!s85 0
+31
+R14
+!s107 E:/MIPS_SCP_Assignment/regfile32.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/MIPS_SCP_Assignment/regfile32.v|
+!i113 1
+R10
+R11
+vrom
+R13
+!i10b 1
+!s100 :1U_ao5_Z@>DDP[kXzj?a1
+IFcn;M[E`3_Ylhgg9Y8jA?2
+R1
+R2
+w1787905419
+8E:/MIPS_SCP_Assignment/rom.v
+FE:/MIPS_SCP_Assignment/rom.v
+L0 6
+R6
+r1
+!s85 0
+31
+R14
+!s107 E:/MIPS_SCP_Assignment/rom.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/MIPS_SCP_Assignment/rom.v|
+!i113 1
+R10
+R11
+vslt2
+R13
+!i10b 1
+!s100 fnCAKB;]lbXgbg5AY;JA?1
+I;zPY_lW`73gQ_80I7:cZ43
+R1
+R2
+w1787905424
+8E:/MIPS_SCP_Assignment/sl2.v
+FE:/MIPS_SCP_Assignment/sl2.v
+L0 7
+R6
+r1
+!s85 0
+31
+R14
+!s107 E:/MIPS_SCP_Assignment/sl2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/MIPS_SCP_Assignment/sl2.v|
+!i113 1
+R10
+R11
